@@ -1,0 +1,12 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 74BE-1FAB
+
+ Directory of C:\Users\Vindhiya\Desktop\My Project
+
+2020/09/15  04:33 PM    <DIR>          .
+2020/09/15  04:33 PM    <DIR>          ..
+2020/09/15  03:33 PM               412 index.html
+2020/09/15  03:32 PM                 8 test1.txt
+2020/09/15  04:33 PM                 0 test2.txt
+               3 File(s)            420 bytes
+               2 Dir(s)  40,562,618,368 bytes free
